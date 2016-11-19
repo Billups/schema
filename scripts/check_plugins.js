@@ -6,7 +6,7 @@ var cli = require('./cli');
 var schema = require('../schema');
 
 // mandatory plugins
-var plugins = [ 'analysis-icu' ];
+var plugins = [];
 
 // list of failures
 var failures = [];
